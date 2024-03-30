@@ -80,6 +80,22 @@ H Alice είναι  ένα ολοκληρωμένο περιβάλλον ανά�
 
 ![image](https://github.com/SDY60-2023/Apostolos-ge4/assets/146770489/91a284da-f49c-4844-81dd-8791805b396d)
 
+
+![pros8iki_procedure](https://github.com/SDY60-2023/Apostolos-ge4/assets/146770489/f7423cba-e1f1-4893-bd9b-19710d86628c)
+
+
+![procedureDanceImplementation](https://github.com/SDY60-2023/Apostolos-ge4/assets/146770489/7a05d9d5-e301-4607-861d-6312c5fef32f)
+
+
+![finalprogramDance](https://github.com/SDY60-2023/Apostolos-ge4/assets/146770489/034b0c89-154a-456c-bd71-9f52b356e798)
+
+
+![programExecution](https://github.com/SDY60-2023/Apostolos-ge4/assets/146770489/ad17584c-5739-4ac5-a1ea-bd64edd87cb7)
+
+
+
+
+
 ### Αξιολόγηση της διαδραστικότητας της Alice με βάση την εμπειρία του διδακτικού σεναρίου.
 
 Οι παρατηρήσεις των μαθητών όσον αφορά την έννοια της κληρονομικότητας των αντικειμένων οδήγησε στο συμπέρασμα ότι αντιλήφθηκαν τη στενή σχέση μεταξύ των διάφορων εννοιών του αντικειμενοστραφούς προγραμματισμού. 
